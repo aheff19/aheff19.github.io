@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Surviving my first project (instert cheesy motivational song here)"
-date:       2020-06-22 00:05:38 +0000
+date:       2020-06-21 20:05:39 -0400
 permalink:  surviving_my_first_project_instert_cheesy_motivational_song_here
 ---
 
@@ -15,6 +15,8 @@ Okay, I needed to get a grip. I took a breath, reminded myself why I went for a 
 After venting to and receiving great study tips from my instructor, Yish, I felt better and felt my resolve return. And thanks to my amazing groupmates, Alex and Ben (aka battle buddies) I have been able to push through.  
 
 The initial stage was a challenge because I felt like everything I learned in the lessons just flew out the window. For every little thing I needed to do, I had to go back and review and research. I totally gained a new respect for google. 
+
+The panic set in at the initial stage of data cleaning. I remembered the tasks that needed to be done, such as grouping, eliminating duplicates, splitting, dropping columns, etc, but it was the how to be done that escaped me at the start. With the help of my instructors and groupmates, the material started to make more sense.
 
 As the week went on, I found myself being able to remember certain codes without having to look them up as much, and my confidence grew a bit more in the reality that perhaps I can do this.  This project really gave me a good handle of Jupyter Notebook and more practice with GitHub (but I am going to find a video tutorial to do a refresher on that).
 

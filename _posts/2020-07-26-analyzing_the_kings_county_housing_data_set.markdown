@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Analyzing the Kings County Housing Data Set"
-date:       2020-07-26 17:37:31 +0000
+date:       2020-07-26 13:37:32 -0400
 permalink:  analyzing_the_kings_county_housing_data_set
 ---
 

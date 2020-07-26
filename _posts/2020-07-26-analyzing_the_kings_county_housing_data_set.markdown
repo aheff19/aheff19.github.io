@@ -41,7 +41,7 @@ After this, I also added data on cities, which I added to reduce the noise in te
 # Data Cleaning:
 One of my first steps was to make sure that price was normally distributed and performed a log transformation to do so.  The graphs below the before and after of the log transformation.
 
-![]([Imgur](https://i.imgur.com/7vK3HIU.png?1)http://)      ![]([Imgur](https://i.imgur.com/glKDJFy.png)http://)
+![([Imgur](https://i.imgur.com/7vK3HIU.png?1))     ![([Imgur](https://i.imgur.com/glKDJFy.png)
 
 
 One of the variables I removed was yr_renovated, as the scatter plot did not show much impact on price. 
@@ -49,7 +49,7 @@ One of the variables I removed was yr_renovated, as the scatter plot did not sho
 Exploratory Data Analysis
 I checked for multicollinearity and then explored the data before trying the model. I thought it best to make two dataframes, one for the categorical variables and one for the numeric variables. This help gave me a better picture on the impact of price and used box plots for visualizations. 
 
-                    ![]([Imgur](https://i.imgur.com/Hjfvwrh.png)http://)
+                    ![([Imgur](https://i.imgur.com/Hjfvwrh.png)
 
 Here we can see that condition is a bit unclear on how it affects price. It appears that once condition goes to 3, price goes up a bit but then does not have much variation after.  I decided to drop this variable. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Predicting Online News Popularity "
-date:       2020-08-25 01:15:02 +0000
+date:       2020-08-24 21:15:02 -0400
 permalink:  predicting_online_news_popularity
 ---
 
